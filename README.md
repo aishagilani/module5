@@ -16,12 +16,15 @@
    ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/3.3.3.JPG)
 
 5) Write a Java program that attempts to open a file and then read its first line. Handle both FileNotFoundException and IOException separately.
+   
     ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/4.JPG)
  
 
-6) Create a custom exception InvalidEmailException that is thrown when the user enters an email without @ symbol. Write a program to validate email input.
+7) Create a custom exception InvalidEmailException that is thrown when the user enters an email without @ symbol. Write a program to validate email input.
+   
     ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/5.JPG)
- ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/5.5.JPG)
+   
+    ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/5.5.JPG)
 
 
 
