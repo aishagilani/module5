@@ -9,10 +9,12 @@
 
 3) Write a Java program that reads a user’s name and tries to convert the first three characters to an integer (e.g., "abc"). Handle StringIndexOutOfBoundsException and       NumberFormatException.
     ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/3.JPG)
+   
     ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/3.3.JPG)
+   
     ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/3.3.3.JPG)
 
-4) Write a Java program that attempts to open a file and then read its first line. Handle both FileNotFoundException and IOException separately.
+5) Write a Java program that attempts to open a file and then read its first line. Handle both FileNotFoundException and IOException separately.
     ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/4.JPG)
  
 
