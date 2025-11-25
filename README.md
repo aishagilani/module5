@@ -2,7 +2,7 @@
  ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/1.JPG)
  ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/1.1.JPG)
 
-3) Create a program that reads an array size from the user and allocates an array dynamically. Handle NegativeArraySizeException if the user enters a negative size.
+2) Create a program that reads an array size from the user and allocates an array dynamically. Handle NegativeArraySizeException if the user enters a negative size.
 
   ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/2.JPG)
 
