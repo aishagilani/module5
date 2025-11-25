@@ -5,11 +5,18 @@
 
   ![imagr alt]
 
-3) 
+3) Write a Java program that reads a user’s name and tries to convert the first three characters to an integer (e.g., "abc"). Handle StringIndexOutOfBoundsException and       NumberFormatException.
 
-![image alt]
+ ![image alt]
 
-4)
+4) Write a Java program that attempts to open a file and then read its first line. Handle both FileNotFoundException and IOException separately.
+  ![image alt]
+
+5) Create a custom exception InvalidEmailException that is thrown when the user enters an email without @ symbol. Write a program to validate email input.
+ ![image alt]
+
+
+
 
 
 
