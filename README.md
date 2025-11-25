@@ -3,7 +3,7 @@
 
 2) Create a program that reads an array size from the user and allocates an array dynamically. Handle NegativeArraySizeException if the user enters a negative size.
 
-  ![imagr alt]
+  ![image alt]
 
 3) Write a Java program that reads a user’s name and tries to convert the first three characters to an integer (e.g., "abc"). Handle StringIndexOutOfBoundsException and       NumberFormatException.
 
