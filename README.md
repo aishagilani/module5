@@ -18,7 +18,6 @@
  
 
 6) Create a custom exception InvalidEmailException that is thrown when the user enters an email without @ symbol. Write a program to validate email input.
-7) 
     ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/5.JPG)
     ![image alt](https://github.com/aishagilani/module5/blob/a4556450f55eb4ee48f374592e7e6acc9e37da34/5.5.JPG)
 
